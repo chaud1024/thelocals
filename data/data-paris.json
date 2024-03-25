@@ -1,0 +1,222 @@
+[
+  {
+    "date": "2023-01-23",
+    "path": "Le_Grand_Vefour",
+    "title": "Le Grand Véfour",
+    "description": "200년 이상의 역사적인 장소에서 즐기는 미슐랭 2스타 쉐프 기 마르틴의 프렌치 레스토랑",
+    "category": "Restaurant",
+    "url": "https://www.grand-vefour.com/",
+    "imgSrc": "/img/restaurant_vefour.png",
+    "essential": false
+  },
+  {
+    "date": "2023-01-30",
+    "path": "Les_Deux_Magots",
+    "title": "Les Deux Magots",
+    "description": "1885년 문을 연 파리의 상징적인 브라세리",
+    "category": "Cafe",
+    "url": "https://lesdeuxmagots.fr/",
+    "imgSrc": "/img/cafe_deux_magots.png",
+    "essential": true
+  },
+  {
+    "date": "2023-02-02",
+    "title": "La Crêperie de Josselin",
+    "path": "La_Creperie_de_Josselin",
+    "description": "달콤한 크레페, 식사용 걀레트와 사과주인 시드르를 즐기는 곳",
+    "category": "Cafe",
+    "url": "",
+    "imgSrc": "/img/cafe_crepe_josselin.png",
+    "essential": true
+  },
+  {
+    "date": "2023-02-06",
+    "title": "Tour Montparnasse",
+    "path": "Tour_Montparnasse",
+    "description": "루프 테라스와 56층 전망대에서 보는 파리 전경",
+    "category": "Sight",
+    "url": "https://www.tourmontparnasse56.com/en/",
+    "imgSrc": "/img/sight_montparnasse_tower.png",
+    "essential": true
+  },
+  {
+    "date": "2023-02-08",
+    "title": "Galeries Lafayette Haussmann",
+    "path": "Galeries_Lafayette_Haussmann",
+    "description": "아르누보 양식의 돔이 화려한 백화점",
+    "category": "Sight",
+    "url": "https://haussmann.galerieslafayette.com/",
+    "imgSrc": "https://images.unsplash.com/photo-1596704927944-86c98d336e4b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "essential": false
+  },
+  {
+    "date": "2023-02-12",
+    "title": "Musée du Louvre",
+    "path": "Musee_Louvre",
+    "description": "방대한 컬렉션을 소장한 파리를 대표하는 박물관",
+    "category": "Monument",
+    "url": "https://www.louvre.fr/",
+    "imgSrc": "https://images.unsplash.com/photo-1459455356093-6495cff2a2c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "essential": true
+  },
+  {
+    "date": "2023-02-13",
+    "title": "Musée de l'Orangerie",
+    "path": "Musee_Orangerie",
+    "description": "모네의 수련 벽화가 유명한 미술관",
+    "category": "Monument",
+    "url": "https://www.musee-orangerie.fr/",
+    "imgSrc": "/img/monument_orangerie.png",
+    "essential": true
+  },
+  {
+    "date": "2023-02-14",
+    "path": "Musee_Orsay",
+    "title": "Musée d'Orsay",
+    "description": "19-20세기 유럽 예술품이 가득한, 옛 기차역을 살린 미술관",
+    "category": "Monument",
+    "url": "https://www.musee-orsay.fr",
+    "imgSrc": "https://images.unsplash.com/photo-1628812336138-2e46a50a221c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1158&q=80",
+    "essential": true
+  },
+  {
+    "date": "2023-02-16",
+    "path": "Carette",
+    "title": "Carette",
+    "description": "샌드위치, 기발한 마카롱, 클래식 프렌치 페이스트리로 유명한, 오랫동안 운영해 온 우아한 카페",
+    "category": "Cafe",
+    "url": "",
+    "imgSrc": "/img/cafe_carette.png",
+    "essential": true
+  },
+  {
+    "date": "2023-02-16",
+    "path": "Jardins_du_Trocadero",
+    "title": "Jardins du Trocadéro",
+    "description": "트로카데로 광장 맞은편에 위치한 1937년에 조성한 공원",
+    "category": "Sight",
+    "url": "",
+    "imgSrc": "/img/sight_trocadero.png",
+    "essential": false
+  },
+  {
+    "date": "2023-02-16",
+    "path": "Le_Procope",
+    "title": "Le Procope",
+    "description": "전통 코코뱅을 경험할 수 있는 브라세리",
+    "category": "Restaurant",
+    "url": "https://www.procope.com/",
+    "imgSrc": "/img/restaurant_procope.jpg",
+    "essential": true
+  },
+  {
+    "date": "2023-02-18",
+    "path": "LA_PARISIENNE",
+    "title": "LA PARISIENNE",
+    "description": "2016년 1re Prix 수상한 제과점의 rue Madame지점",
+    "category": "Cafe",
+    "url": "http://www.boulangerielaparisienne.com/",
+    "imgSrc": "/img/cafe_parisienne.png",
+    "essential": true
+  },
+  {
+    "date": "2023-02-20",
+    "path": "Musee_Eugene_Delacroix",
+    "title": "Musée Eugène Delacroix",
+    "description": "들라크루아 자택 겸 작업실에 조성된 미술관",
+    "category": "Monument",
+    "url": "https://www.musee-delacroix.fr/",
+    "imgSrc": "https://images.unsplash.com/photo-1604578760985-38326ca1604b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+    "essential": false
+  },
+  {
+    "date": "2023-02-21",
+    "path": "Sainte_Chapelle",
+    "title": "Sainte-Chapelle",
+    "description": "13세기 고딕양식의 스태인드글라스가 화려한 교회",
+    "category": "Monument",
+    "url": "https://www.musee-delacroix.fr/",
+    "imgSrc": "https://images.unsplash.com/photo-1546444809-d64eccd9fb88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8U2FpbnRlJTIwQ2hhcGVsbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "essential": true
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Le Jardin du Luxembourg",
+    "path": "Le_Jardin_du_Luxembourg",
+    "description": "산책하기 좋은 17세기 공원",
+    "category": "Sight",
+    "url": "https://jardin.senat.fr/",
+    "imgSrc": "https://images.unsplash.com/photo-1649935238420-835ffa4a2495?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1028&q=80",
+    "essential": false
+  },
+  {
+    "date": "2023-02-23",
+    "path": "ibis_Paris_Gare_du_Nord",
+    "title": "ibis Paris Gare du Nord Château-Landon 10ème",
+    "description": "북역 바로 옆의 합리적인 호텔",
+    "category": "Hotel",
+    "url": "https://all.accor.com/hotel/0863/index.ko.shtml?dateIn=&nights=&compositions=1&stayplus=false&snu=false#origin=accor",
+    "imgSrc": "/img/hotel_ibis_garedunord.jpg",
+    "essential": false
+  },
+  {
+    "date": "2023-02-24",
+    "path": "Pont_Alexandre_III",
+    "title": "Pont Alexandre III",
+    "description": "보자르 양식의 화려한 19세기 후반 다리",
+    "category": "Sight",
+    "url": "",
+    "imgSrc": "https://images.unsplash.com/photo-1499856871958-5b9627545d1a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1120&q=80",
+    "essential": false
+  },
+  {
+    "date": "2023-02-26",
+    "path": "Le_Narcisse_Blanc_Hotel",
+    "title": "Le Narcisse Blanc Hôtel & Spa",
+    "description": "우아한 객실을 갖춘 고급 호텔",
+    "category": "Hotel",
+    "url": "https://www.lenarcisseblanc.com/",
+    "imgSrc": "/img/hotel_le-narcisse-blanc.jpg",
+    "essential": true
+  },
+  {
+    "date": "2023-03-01",
+    "path": "Hotel_Litteraire_Le_Swann",
+    "title": "Hotel Littéraire Le Swann, BW Premier Collection",
+    "description": "Saint-Lazare역 근처의 합리적인 호텔",
+    "category": "Hotel",
+    "url": "https://www.hotel-leswann.com/",
+    "imgSrc": "/img/hotel_leswann-bw.jpeg",
+    "essential": true
+  },
+  {
+    "date": "2023-03-01",
+    "path": "Hotel_Cordelia",
+    "title": "Hotel Cordelia",
+    "description": "오페라 가르니에 근처의 합리적인 호텔",
+    "category": "Hotel",
+    "url": "https://www.cordelia-paris-hotel.com/",
+    "imgSrc": "/img/hotel_cordelia.jpg",
+    "essential": false
+  },
+  {
+    "date": "2023-03-01",
+    "path": "Hotel_Splendide_Royal_Paris",
+    "title": "Hotel Splendide Royal Paris",
+    "description": "8구에 위치한 5성급 고급 호텔",
+    "category": "Hotel",
+    "url": "https://www.splendideroyal.fr/",
+    "imgSrc": "/img/hotel_splendide.jpg",
+    "essential": false
+  },
+  {
+    "date": "2023-03-01",
+    "path": "Hotel_de_Castiglione",
+    "title": "Hotel de Castiglione",
+    "description": "엘리제궁 근처의 아르데코풍 호텔",
+    "category": "Hotel",
+    "url": "https://www.castiglionehotel.com/",
+    "imgSrc": "/img/hotel_castiglione.jpeg",
+    "essential": false
+  }
+]

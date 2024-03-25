@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-default: 16px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  :root {
+    --font-default: 14px;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  :root {
+    --font-default: 12px;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: #eeeeee;
+  height: 100svh;
+  overflow-y: auto;
+  font-size: var(--font-default);
+}
+
+section .react-multi-carousel-track {
+  margin-bottom: 3rem;
+}
+section .react-multiple-carousel__arrow--right {
+  right: calc(2% + 1px);
+}
+section .react-multiple-carousel__arrow--left {
+  left: calc(2% + 1px);
+}
