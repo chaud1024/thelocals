@@ -1,34 +1,28 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 드림코딩아카데미 ⌈ Next.js 개념정리 · 클론코딩 ⌋ 수강
 
-## Getting Started
+## 프로젝트 개요
 
-First, run the development server:
+Next.js 13을 활용하여 개발한 블로그 프로젝트로 파리의 관광명소에 대한 포스트를 제공합니다. JSON 파일로 포스트 데이터를 관리하고, app router를 이용하여 포스트의 상세 페이지로 접근할 수 있도록 구현했습니다. 또한, 컴포넌트와 비즈니스 로직을 분리하여 의존성을 줄이고, nodemailer와 yup을 이용하여 이메일 기능을 추가했습니다
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## 주요 기능
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- 포스트 읽기 : path를 통해 JSON 파일을 불러오고 마크다운 형식의 포스트를 보여줍니다.
+- app router : app router와 slug를 통해 동적으로 포슽트를 불러옵니다.
+- 카테고리 : 카테고리별 필터를 통해 포스트를 볼 수 있습니다.
+- 메일 보내기 : yup을 통해 유효성이 확인되었을 경우 nodemailer를 사용하여 메일을 보낼 수 있습니다.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 프로젝트 구조
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- app 폴더 : 하위 폴더별 route 기능 | [slug]를 통해 상세화면 진입 | api 사용
+- components 폴더 : UI 컴포넌트
+- service 폴더 : 기능별 로직
 
-## Learn More
+## 사용 기술
 
-To learn more about Next.js, take a look at the following resources:
+- Next.js 13
+- tailwind CSS
+- Typescript
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 배포링크
+  [The Locals 바로가기](https://thelocals.vercel.app/).
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
